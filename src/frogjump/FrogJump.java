@@ -9,6 +9,7 @@ public class FrogJump {
         int d = 30;
 
         int count = 0;
+        
         while (x < y) {
             x = d + x;
             count++;
